@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css?family=Leckerli+One');
+
+body { 
+    background-image:url("http://www.georgemaps.com/wp-content/uploads/2016/06/travel-the-world-tumblr-quotes-background-wallpaper-full-hd-wallpapers-image-source-from-this-santorini.jpg");
+    
+}
+
+h1 {
+    color: purple;
+    font-family: 'Cabin Sketch', cursive;";
+    font-size: 300%;
+    text-shadow: -3px 2px 5px black;
+    text-align: center;
+}
+
+#map {
+    height: 600px;
+    width: 600px;
+    display: inline-block;
+}
+
+.map-container {
+    width: 100%;
+    text-align: center;
+}
+
+button {
+    background-color: transparent;
+    height: 30px;
+    color: green;
+    font-size: 140%;
+    border: solid #42f48c 4px;
+}
+
+.menu {
+    font-size: 189%;
+    color: black;
+    text-shadow: 6px 7px 8px black;
+    margin: auto 10px;
+    display: inline-block;
+    font-family: ""
+}
+ img{
+     width:200px;
+     height:200px;
+     float:right;
+ }
+
+.menu-bar {
+    text-align: center;
+}
+
+
+a{
+    color:purple;
+    text-decoration:none;
+    font-family:"sans-serif";
+    text-align:center;
+}
+
+#charity-name {
+    border-radius: 20px;
+    height: 30px;
+}
+
+
+.big{
+    font-size:200%;
+    color:royalblue;
+    font-family:'Leckerli One', cursive;
+    
+}
+.small{
+    font-size:200%;
+    color:royalblue;
+    font-family:'Leckerli One', cursive;
+}
+.tall{
+    font-size:200%;
+    color:royalblue;
+    font-family:'Leckerli One', cursive;
+    
+}
+    .charities-body p{ 
+        font-size:30px;
+        color:blue;
+        font-family:'Leckerli One', cursive;
+        
+    }
+    .volunteering-body p{
+        font-size:30px;
+        color:pink;
+        font-family:'Leckerli One', cursive;
+    
+    }
+    .life{
+            padding: 150px;
+            
+    }
+.life h2{
+    color:white;
+}
+.Tap{
+    text-align:center;
+    font-family:cursive;
+    font-size:150%;
+    color:purple;
+}
+  .volunteering-body{
+    background-color:pink;
+    background-image:url("http://66.media.tumblr.com/24f4d020b1086dd5d596eba22807b395/tumblr_mpultu6tj91qj0100o5_1280.jpg")
+
+      
+  }
+.charities-body{
+    background-color:;
+}
+ .volunteering-body h2{
+     color:pink;
+ }
+ }
